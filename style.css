@@ -1,0 +1,17 @@
+h1 {
+   color:brown ; 
+}
+
+* {
+    border: solid;
+    background:grey;
+}
+.header{
+background:cadetblue;
+display: flex;
+justify-content:space-between
+}
+
+p {
+    color:blue ;
+}
